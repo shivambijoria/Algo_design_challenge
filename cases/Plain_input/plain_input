@@ -1,0 +1,3 @@
+It only reads the input does nothing.I have included it as i realized the time taken to just read 
+the input was a significant portion of the total time taken.In case of half a million edges it was 44%.(35 sec of 79.13secs)
+ 
